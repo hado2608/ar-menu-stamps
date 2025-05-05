@@ -1,0 +1,8 @@
+{
+  "name": "GameLogic",
+  "references": [
+    "Niantic.ARDK",
+    "Niantic.ARDK.Extensions",
+    "Niantic.ARDK.Utilities"
+  ]
+}
